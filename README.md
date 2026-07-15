@@ -1,13 +1,13 @@
 # 📊 E-Commerce Sales Analysis Dashboard (Power BI)
 
-## 📌 Project Overview
+## 📌 Project Overview :
 The E-Commerce Sales Analysis Dashboard is an interactive Power BI project designed to analyze sales performance across different countries, states, categories, markets, and shipping modes.
 
 This dashboard helps businesses understand key performance metrics and make data-driven decisions through interactive visualizations and filters.
 
 ---
 
-## 🚀 Features
+##  Features :
 
 - 📈 Total Sales KPI
 - 💰 Total Profit KPI
@@ -25,7 +25,7 @@ This dashboard helps businesses understand key performance metrics and make data
 
 ---
 
-## 📷 Dashboard Preview
+##  Dashboard Preview :
 
 Main Dashboard contains:
 
@@ -38,7 +38,7 @@ Main Dashboard contains:
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used :
 
 - Microsoft Power BI Desktop
 - Power Query
@@ -48,7 +48,7 @@ Main Dashboard contains:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure :
 
 ```
 E-Commerce-Sales-Analysis/
@@ -68,7 +68,7 @@ E-Commerce-Sales-Analysis/
 
 ---
 
-## 📊 Dashboard Insights
+##  Dashboard Insights :
 
 - Technology category generated the highest sales.
 - Standard Class is the most preferred shipping mode.
@@ -78,7 +78,7 @@ E-Commerce-Sales-Analysis/
 
 ---
 
-## 📈 KPIs Included
+##  KPIs Included :
 
 - Total Sales
 - Total Profit
@@ -87,7 +87,7 @@ E-Commerce-Sales-Analysis/
 
 ---
 
-## 📚 Visualizations
+##  Visualizations :
 
 - KPI Cards
 - Donut Chart
@@ -98,7 +98,7 @@ E-Commerce-Sales-Analysis/
 
 ---
 
-## 🎯 Business Objectives
+##  Business Objectives :
 
 - Monitor overall sales performance.
 - Identify top-performing markets.
@@ -109,7 +109,7 @@ E-Commerce-Sales-Analysis/
 
 ---
 
-## 👨‍💻 Skills Demonstrated
+##  Skills Demonstrated :
 
 - Power BI
 - Data Cleaning
@@ -122,7 +122,7 @@ E-Commerce-Sales-Analysis/
 
 ---
 
-## ⭐ Future Improvements
+##  Future Improvements :
 
 - Time Series Analysis
 - Profit Margin Dashboard
@@ -132,12 +132,9 @@ E-Commerce-Sales-Analysis/
 
 ---
 
-## 👤 Author
+##  Author :
 
-**Pratik Jadhav**
+**Pratik Pandurang Jadhav**
 
 Electronics & Telecommunication Engineering Student
-
----
-
-## ⭐ If you like this project, don't forget to Star this repository.
+"Power BI Project"
